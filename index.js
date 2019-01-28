@@ -15,7 +15,7 @@ function yourAnimal() {
 function add2() {
 
     const two = 2
-    const n = 761
+    const n = 0
 
   return n + two 
 }
