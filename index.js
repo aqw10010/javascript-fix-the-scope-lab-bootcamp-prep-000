@@ -20,6 +20,7 @@ function add2() {
 }
 
 var funkyFunction = function() {
+ var thefunk = "FUNKY"
   return function() {
     return "FUNKY!"
   }
