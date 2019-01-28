@@ -14,8 +14,8 @@ function yourAnimal() {
 
 function add2() {
   
-    const two = 2;
-    const n = 465;
+    const two = 2 ;
+    const n = 465 ;
 
   return n + two 
 }
