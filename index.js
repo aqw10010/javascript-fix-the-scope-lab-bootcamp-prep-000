@@ -16,8 +16,7 @@ function add2() {
 
     const two = 2
 
-  return n + two {
-  }
+  return n + two 
 }
 
 var funkyFunction = function() {
